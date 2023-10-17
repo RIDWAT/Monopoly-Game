@@ -1,0 +1,81 @@
+*{
+    margin: o;
+    padding: 0;
+}
+h1{
+    margin:0 450px;
+    background-image: linear-gradient(300deg, rgba(12, 233, 167, 0.812)40%, rgba(244, 173, 222, 0.823)60%);
+    color: white;
+}
+table tr td{
+    border: thin solid black;
+    width: 35px;
+    height: 35px;
+}
+table{
+    border-collapse: collapse;
+    background-color:rgb(155, 243, 214);
+    margin: 50px auto;
+}
+
+p{
+    background-color: red;
+    height: 15px;
+    /* margin-bottom: -80px; */
+    /* margin-top: 30px; */
+    margin-bottom: -55px;
+    padding-bottom: 5px;
+    width: 40px;
+
+    
+}
+#row11{
+    background-color: skyblue;
+    height: 15px;
+    margin-bottom: 0;
+    margin-top:-37px;
+
+}
+#left{
+    background-color: orange;
+    height: 31px;
+    width:15px;
+    margin-top: -18px;
+    margin-left: 55px;
+}
+#right{
+    background-color: green;
+    height: 31px;
+    width:15px;
+    margin-top: -18px;
+    
+}
+.monopolyimage{
+    width: 200px;
+    rotate: 330deg;
+    margin-top: -50px;
+}
+.img2{
+    width: 140px;
+    height: 70px;
+    margin-top: 50px;
+    margin-left:220px ;
+}
+.question{
+    rotate: 270deg;
+    width: 40px;
+    height: 30px;
+}
+.price{
+    rotate: 270deg;
+    width: 50px;
+    height: 40px;
+}
+.question2{
+    rotate: 90deg;
+    width: 40px;
+    height: 30px;
+}
+.imgleft{
+    margin-left: 20px;
+}
